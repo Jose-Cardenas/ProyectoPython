@@ -1,0 +1,7 @@
+El programa se ejecuta desde el archivo llamado ProyectoPython.py
+
+La clave de usario asiganada es : 1234
+
+
+
+José Fernando Cárdenas Velásquez
